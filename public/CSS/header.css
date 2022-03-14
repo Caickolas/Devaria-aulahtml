@@ -13,7 +13,6 @@
     
     header nav ul li {
         display: inline-block;
-        margin-right: 15px;
     }
     
     header nav ul li:not(:last-child) {
@@ -22,6 +21,7 @@
     
     .menu li a {
         color: #fff;
+        text-decoration: none;
     }
     
     .menu li a:hover {
